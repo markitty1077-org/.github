@@ -2,9 +2,9 @@ name: KodeKloud Demo Organization NodeJS CI
 
 on:
   push:
-    branches: [ $default-branch ]
+    branches: [ $default-branch ]  # gets replaced when you use it, see test-starter-workflow
   pull_request:
-    branches: [ $default-branch ]
+    branches: [ $default-branch ]  # gets replaced when you use it, see test-starter-workflow
 
 jobs:
     build:
