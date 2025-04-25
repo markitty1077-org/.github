@@ -1,0 +1,8 @@
+{
+    "name": "KodeKloud Demo Organization NodeJS CI",
+    "description": "KodeKloud Organization NodeJS Init CI starter workflow.",
+    "iconName": "kode-kloud-icon", # name of .svg in same folder (I don't have it)
+    "categories": [
+        "NPM Config"
+    ]
+  }
